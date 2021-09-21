@@ -1,5 +1,3 @@
-# Cors_Allow_for_Laravel_5.8.XX
-Cors Allow for Laravel 5.8.XX
 # Cors Allow for Laravel 5.8.XX
 
 ## 1. Goto app/Http/Kernel.php  and Add the following line to the $middleware array in app/Http/Kernel.php.
