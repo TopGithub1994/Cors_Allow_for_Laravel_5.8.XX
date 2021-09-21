@@ -6,7 +6,7 @@
 \App\Http\Middleware\CheckCors::class,
 ~~~
 
-## 2. Goto app/Http/Middleware and create file name CheckCors.php copy code below to file CheckCors.php.
+## 2. Goto `app/Http/Middleware` and create file name `CheckCors.php` copy code below to file CheckCors.php.
 
 ~~~
 <?php
